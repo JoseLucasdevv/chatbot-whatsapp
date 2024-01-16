@@ -1,0 +1,15 @@
+{
+  "name": "chatbot-whatsapp",
+  "version": "1.0.0",
+  "description": "this project contains a WhatsApp bot called 'José Lucas GPT' made using the OpenAI API.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "José Lucas www.instagram.com/joselucasz_",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
